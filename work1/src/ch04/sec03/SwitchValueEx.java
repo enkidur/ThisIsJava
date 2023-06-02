@@ -21,6 +21,7 @@ public class SwitchValueEx {
 		}
 		default -> 60;
 		};
+		
 		System.out.println("score2 : "+score2);
 	}
 }
