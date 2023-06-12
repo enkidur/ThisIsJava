@@ -1,6 +1,5 @@
 package ch04.sec02;
 
-import java.net.Socket;
 
 public class IfEx3 {
 	public static void main(String[] args) {
