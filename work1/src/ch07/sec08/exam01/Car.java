@@ -1,4 +1,4 @@
-package sec07.sec08;
+package ch07.sec08.exam01;
 
 public class Car {
 	//필드 선언.

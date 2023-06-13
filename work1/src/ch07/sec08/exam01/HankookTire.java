@@ -1,4 +1,4 @@
-package sec07.sec08;
+package ch07.sec08.exam01;
 
 public class HankookTire extends Tire{
 	//메소드 재 정의 (오버라이딩)
