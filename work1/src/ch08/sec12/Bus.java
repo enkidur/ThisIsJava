@@ -1,0 +1,13 @@
+package ch08.sec12;
+
+public class Bus implements Vehicle {
+
+	@Override
+	public void run() {
+		System.out.println("버스가 달린다");
+	}
+	public void CheckFare() {
+		System.out.println("승차요금 체크");
+	}
+
+}
