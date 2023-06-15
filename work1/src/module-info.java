@@ -1,3 +1,0 @@
-
-module work1 {
-}
